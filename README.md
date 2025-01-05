@@ -21,3 +21,7 @@ When you are finished with the environment, you can deactivate it
     $
 
 or simply close the terminal.   
+
+## Project Structure
+
+
